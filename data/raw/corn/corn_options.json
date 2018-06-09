@@ -1,0 +1,6 @@
+{"corn":{ "commodity_desc": ["CORN"], "source_desc": ["CENSUS"], "year": ["2012"], "class_desc":["ALL CLASSES"],
+"domain_desc":["AREA HARVESTED","TOTAL"],
+"prodn_practice_desc":["IRRIGATED","ALL PRODUCTION PRACTICES"],
+"statisticcat_desc":["AREA HARVESTED","PRODUCTION","SALES"],
+"unit_desc":["$","ACRES","BU","OPERATIONS","TONS"],
+"util_practice_desc":["ALL UTILIZATION PRACTICES","GRAIN","SILAGE"],"agg_level_desc": ["NATIONAL", "STATE", "COUNTY"]}}

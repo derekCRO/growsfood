@@ -1,0 +1,6 @@
+{"pineapples":{ "commodity_desc": ["PINEAPPLES"], "source_desc": ["CENSUS"], "year": ["2012"], "class_desc":["ALL CLASSES"],
+"domain_desc":["AREA HARVESTED","TOTAL"],
+"prodn_practice_desc":["IRRIGATED","ALL PRODUCTION PRACTICES"],
+"statisticcat_desc":["AREA HARVESTED","AREA NOT HARVESTED","PRODUCTION"],
+"unit_desc":["ACRES","OPERATIONS","TONS"],
+"util_practice_desc":["ALL UTILIZATION PRACTICES"],"agg_level_desc": ["NATIONAL", "STATE", "COUNTY"]}}

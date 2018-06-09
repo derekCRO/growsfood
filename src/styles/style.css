@@ -1,0 +1,182 @@
+body {
+  text-align: center;
+  background-color: #FFFFFF;
+}
+
+.tabbed.menu {
+  display: none;
+}
+
+.ui.menu .item img.logo {
+  margin-right: 1.5em;
+}
+.main.container {
+  margin-top: 7em;
+}
+.wireframe {
+  margin-top: 2em;
+}
+.ui.footer.segment {
+  margin: 5em 0em 0em;
+  padding: 5em 0em;
+}
+.ui.dropdown .menu>.header {
+  background-color: #000;
+  margin: 0;
+  padding: 1.0rem;
+  color: #FFF;
+}
+
+#map {
+  position: relative;
+  overflow: hidden;
+}
+
+#map .tab {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+}
+
+.map {
+  margin-top: 25px;
+}
+
+.title.label {
+  background: #FFF;
+}
+
+#controls {
+  margin-bottom: 25px;
+}
+
+.map svg {
+  background: rgba(50, 50, 50, 0.05);
+  border: 1px solid #999;
+}
+
+.land {
+  stroke: #CCC;
+  fill: none;
+  stroke-width: .75px;
+}
+
+.states {
+  fill: none;
+  stroke: #999;
+  stroke-width: .25px;
+  stroke-linejoin: round;
+}
+
+.counties {
+  fill: none;
+  stroke: #CCC;
+  stroke-width: .10px;
+  stroke-linejoin: round;
+}
+
+.feature {
+  fill: #FFF;
+  cursor: pointer;
+}
+
+.feature:hover {
+  stroke: orange;
+  stroke-width: .5;
+}
+
+.feature.active {
+}
+
+.bubble {
+  stroke: #FFF;
+  stroke-width: 0.25;
+  fill: rgb(33,113,181);
+  cursor: pointer;
+}
+
+.bubble:hover {
+}
+
+.bubble.active {
+  stroke: #000;
+  stroke-width: 1px;
+}
+
+.blank {
+  fill: #FFF;
+}
+
+.product .dropdown {
+  width: 325px;
+}
+
+.legend {
+  fill: #CCC;
+}
+
+.legend circle {
+  fill: none;
+  stroke: #FFF;
+  fill: steelblue;
+}
+
+.legend text {
+  fill: #777;
+  font: 10px sans-serif;
+  text-anchor: middle;
+}
+
+iframe {
+  border: 0px;
+}
+
+.stats-container {
+  min-height: 275px;
+}
+
+.stats-container svg {
+  overflow: visible;
+  margin-top: -75px;
+  border-bottom: 1px solid #CCC;
+}
+
+.chart rect {
+  fill: steelblue;
+}
+
+.chart text.valueLabel {
+  fill: white;
+  font: 12px sans-serif;
+}
+
+.chart text.exterior {
+  text-anchor: start;
+  fill: #333;
+}
+
+.chart text.interior {
+  text-anchor: end;
+  fill: #FFF;
+}
+
+.chart text.regionLabel {
+  fill: #333;
+  font: 14px sans-serif;
+  text-anchor: end;
+}
+
+.chart text.overageLabel {
+  fill: #333;
+  font: 14px sans-serif;
+  text-anchor: end;
+}
+
+.chart g.vertical-bar {
+  cursor: pointer;
+}
+
+.chart g.vertical-bar:hover rect {
+  fill: orange;
+}
+

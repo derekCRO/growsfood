@@ -1,0 +1,6 @@
+{"grapes":{ "commodity_desc": ["GRAPES"], "source_desc": ["CENSUS"], "year": ["2012"], "class_desc":["ALL CLASSES"],
+"domain_desc":["TOTAL"],
+"prodn_practice_desc":["ALL PRODUCTION PRACTICES"],
+"statisticcat_desc":["AREA BEARING","AREA BEARING & NON-BEARING","AREA NON-BEARING"],
+"unit_desc":["ACRES","OPERATIONS"],
+"util_practice_desc":["ALL UTILIZATION PRACTICES"],"agg_level_desc": ["NATIONAL", "STATE", "COUNTY"]}}

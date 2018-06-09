@@ -1,0 +1,6 @@
+{"cut_christmas_trees":{ "commodity_desc": ["CUT CHRISTMAS TREES"], "source_desc": ["CENSUS"], "year": ["2012"], "class_desc":["ALL CLASSES"],
+"domain_desc":["TOTAL"],
+"prodn_practice_desc":["IRRIGATED","ALL PRODUCTION PRACTICES"],
+"statisticcat_desc":["AREA HARVESTED","AREA IN PRODUCTION","SALES"],
+"unit_desc":["$","ACRES","OPERATIONS","TREES"],
+"util_practice_desc":["ALL UTILIZATION PRACTICES"],"agg_level_desc": ["NATIONAL", "STATE", "COUNTY"]}}

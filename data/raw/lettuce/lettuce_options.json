@@ -1,0 +1,6 @@
+{"lettuce":{ "commodity_desc": ["LETTUCE"], "source_desc": ["CENSUS"], "year": ["2012"], "class_desc":["ALL CLASSES","HEAD","LEAF","ROMAINE"],
+"domain_desc":["TOTAL"],
+"prodn_practice_desc":["ALL PRODUCTION PRACTICES"],
+"statisticcat_desc":["AREA HARVESTED"],
+"unit_desc":["ACRES","OPERATIONS"],
+"util_practice_desc":["ALL UTILIZATION PRACTICES","FRESH MARKET"],"agg_level_desc": ["NATIONAL", "STATE", "COUNTY"]}}

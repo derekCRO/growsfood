@@ -1,0 +1,6 @@
+{"eggplant":{ "commodity_desc": ["EGGPLANT"], "source_desc": ["CENSUS"], "year": ["2012"], "class_desc":["ALL CLASSES"],
+"domain_desc":["TOTAL"],
+"prodn_practice_desc":["ALL PRODUCTION PRACTICES"],
+"statisticcat_desc":["AREA HARVESTED"],
+"unit_desc":["ACRES","OPERATIONS"],
+"util_practice_desc":["ALL UTILIZATION PRACTICES","FRESH MARKET","PROCESSING"],"agg_level_desc": ["NATIONAL", "STATE", "COUNTY"]}}

@@ -1,0 +1,6 @@
+{"flowering_plants_potted":{ "commodity_desc": ["FLOWERING PLANTS, POTTED"], "source_desc": ["CENSUS"], "year": ["2012"], "class_desc":["INDOOR USE"],
+"domain_desc":["TOTAL"],
+"prodn_practice_desc":["IN THE OPEN","UNDER PROTECTION","ALL PRODUCTION PRACTICES"],
+"statisticcat_desc":["AREA IN PRODUCTION","SALES"],
+"unit_desc":["$","ACRES","OPERATIONS","SQ FT"],
+"util_practice_desc":["ALL UTILIZATION PRACTICES"],"agg_level_desc": ["NATIONAL", "STATE", "COUNTY"]}}

@@ -1,0 +1,1290 @@
+{
+    "cut_christmas_trees_short_term_woody_crops": {
+        "key": "cut_christmas_trees_short_term_woody_crops",
+        "name": "Cut Christmas Trees & Short Term Woody Crops",
+        "sector": "crops",
+        "group": "horticulture",
+        "qsval": "CUT CHRISTMAS TREES & SHORT TERM WOODY CROPS"
+    },
+    "vegetable_seeds": {
+        "key": "vegetable_seeds",
+        "name": "Vegetable Seeds",
+        "sector": "crops",
+        "group": "horticulture",
+        "qsval": "VEGETABLE SEEDS"
+    },
+    "cut_christmas_trees": {
+        "key": "cut_christmas_trees",
+        "name": "Cut Christmas Trees",
+        "sector": "crops",
+        "group": "horticulture",
+        "qsval": "CUT CHRISTMAS TREES"
+    },
+    "foliage_plants": {
+        "key": "foliage_plants",
+        "name": "Foliage Plants",
+        "sector": "crops",
+        "group": "horticulture",
+        "qsval": "FOLIAGE PLANTS"
+    },
+    "transplants": {
+        "key": "transplants",
+        "name": "Transplants",
+        "sector": "crops",
+        "group": "horticulture",
+        "qsval": "TRANSPLANTS"
+    },
+    "aquatic_plants": {
+        "key": "aquatic_plants",
+        "name": "Aquatic Plants",
+        "sector": "crops",
+        "group": "horticulture",
+        "qsval": "AQUATIC PLANTS"
+    },
+    "bulbs_corms_rhizomes_tubers": {
+        "key": "bulbs_corms_rhizomes_tubers",
+        "name": "Bulbs & Corms & Rhizomes & Tubers",
+        "sector": "crops",
+        "group": "horticulture",
+        "qsval": "BULBS & CORMS & RHIZOMES & TUBERS"
+    },
+    "flowering_plants_potted": {
+        "key": "flowering_plants_potted",
+        "name": "Flowering Plants, Potted",
+        "sector": "crops",
+        "group": "horticulture",
+        "qsval": "FLOWERING PLANTS, POTTED"
+    },
+    "mushroom_spawn": {
+        "key": "mushroom_spawn",
+        "name": "Mushroom Spawn",
+        "sector": "crops",
+        "group": "horticulture",
+        "qsval": "MUSHROOM SPAWN"
+    },
+    "mushrooms": {
+        "key": "mushrooms",
+        "name": "Mushrooms",
+        "sector": "crops",
+        "group": "horticulture",
+        "qsval": "MUSHROOMS"
+    },
+    "sod": {
+        "key": "sod",
+        "name": "Sod",
+        "sector": "crops",
+        "group": "horticulture",
+        "qsval": "SOD"
+    },
+    "tomatoes": {
+        "key": "tomatoes",
+        "name": "Tomatoes",
+        "sector": "crops",
+        "group": "vegetables",
+        "qsval": "TOMATOES"
+    },
+    "bedding_plant_totals": {
+        "key": "bedding_plant_totals",
+        "name": "Bedding Plant Totals",
+        "sector": "crops",
+        "group": "horticulture",
+        "qsval": "BEDDING PLANT TOTALS"
+    },
+    "nursery_totals": {
+        "key": "nursery_totals",
+        "name": "Nursery Totals",
+        "sector": "crops",
+        "group": "horticulture",
+        "qsval": "NURSERY TOTALS"
+    },
+    "short_term_woody_crops": {
+        "key": "short_term_woody_crops",
+        "name": "Short Term Woody Crops",
+        "sector": "crops",
+        "group": "horticulture",
+        "qsval": "SHORT TERM WOODY CROPS"
+    },
+    "cut_flowers_cut_cultivated_greens": {
+        "key": "cut_flowers_cut_cultivated_greens",
+        "name": "Cut Flowers & Cut Cultivated Greens",
+        "sector": "crops",
+        "group": "horticulture",
+        "qsval": "CUT FLOWERS & CUT CULTIVATED GREENS"
+    },
+    "flower_seeds": {
+        "key": "flower_seeds",
+        "name": "Flower Seeds",
+        "sector": "crops",
+        "group": "horticulture",
+        "qsval": "FLOWER SEEDS"
+    },
+    "propagative_material": {
+        "key": "propagative_material",
+        "name": "Propagative Material",
+        "sector": "crops",
+        "group": "horticulture",
+        "qsval": "PROPAGATIVE MATERIAL"
+    },
+    "milk": {
+        "key": "milk",
+        "name": "Milk",
+        "sector": "animals_products",
+        "group": "dairy",
+        "qsval": "MILK"
+    },
+    "asparagus": {
+        "key": "asparagus",
+        "name": "Asparagus",
+        "sector": "crops",
+        "group": "vegetables",
+        "qsval": "ASPARAGUS"
+    },
+    "eggplant": {
+        "key": "eggplant",
+        "name": "Eggplant",
+        "sector": "crops",
+        "group": "vegetables",
+        "qsval": "EGGPLANT"
+    },
+    "ginseng": {
+        "key": "ginseng",
+        "name": "Ginseng",
+        "sector": "crops",
+        "group": "vegetables",
+        "qsval": "GINSENG"
+    },
+    "lettuce": {
+        "key": "lettuce",
+        "name": "Lettuce",
+        "sector": "crops",
+        "group": "vegetables",
+        "qsval": "LETTUCE"
+    },
+    "okra": {
+        "key": "okra",
+        "name": "Okra",
+        "sector": "crops",
+        "group": "vegetables",
+        "qsval": "OKRA"
+    },
+    "turnips": {
+        "key": "turnips",
+        "name": "Turnips",
+        "sector": "crops",
+        "group": "vegetables",
+        "qsval": "TURNIPS"
+    },
+    "broccoli": {
+        "key": "broccoli",
+        "name": "Broccoli",
+        "sector": "crops",
+        "group": "vegetables",
+        "qsval": "BROCCOLI"
+    },
+    "brussels_sprouts": {
+        "key": "brussels_sprouts",
+        "name": "Brussels Sprouts",
+        "sector": "crops",
+        "group": "vegetables",
+        "qsval": "BRUSSELS SPROUTS"
+    },
+    "cucumbers": {
+        "key": "cucumbers",
+        "name": "Cucumbers",
+        "sector": "crops",
+        "group": "vegetables",
+        "qsval": "CUCUMBERS"
+    },
+    "parsley": {
+        "key": "parsley",
+        "name": "Parsley",
+        "sector": "crops",
+        "group": "vegetables",
+        "qsval": "PARSLEY"
+    },
+    "radishes": {
+        "key": "radishes",
+        "name": "Radishes",
+        "sector": "crops",
+        "group": "vegetables",
+        "qsval": "RADISHES"
+    },
+    "rhubarb": {
+        "key": "rhubarb",
+        "name": "Rhubarb",
+        "sector": "crops",
+        "group": "vegetables",
+        "qsval": "RHUBARB"
+    },
+    "cauliflower": {
+        "key": "cauliflower",
+        "name": "Cauliflower",
+        "sector": "crops",
+        "group": "vegetables",
+        "qsval": "CAULIFLOWER"
+    },
+    "melons": {
+        "key": "melons",
+        "name": "Melons",
+        "sector": "crops",
+        "group": "vegetables",
+        "qsval": "MELONS"
+    },
+    "potatoes": {
+        "key": "potatoes",
+        "name": "Potatoes",
+        "sector": "crops",
+        "group": "vegetables",
+        "qsval": "POTATOES"
+    },
+    "spinach": {
+        "key": "spinach",
+        "name": "Spinach",
+        "sector": "crops",
+        "group": "vegetables",
+        "qsval": "SPINACH"
+    },
+    "sweet_corn": {
+        "key": "sweet_corn",
+        "name": "Sweet Corn",
+        "sector": "crops",
+        "group": "vegetables",
+        "qsval": "SWEET CORN"
+    },
+    "beans": {
+        "key": "beans",
+        "name": "Beans",
+        "sector": "crops",
+        "group": "field_crops",
+        "qsval": "BEANS"
+    },
+    "chicory": {
+        "key": "chicory",
+        "name": "Chicory",
+        "sector": "crops",
+        "group": "vegetables",
+        "qsval": "CHICORY"
+    },
+    "daikon": {
+        "key": "daikon",
+        "name": "Daikon",
+        "sector": "crops",
+        "group": "vegetables",
+        "qsval": "DAIKON"
+    },
+    "squash": {
+        "key": "squash",
+        "name": "Squash",
+        "sector": "crops",
+        "group": "vegetables",
+        "qsval": "SQUASH"
+    },
+    "beets": {
+        "key": "beets",
+        "name": "Beets",
+        "sector": "crops",
+        "group": "vegetables",
+        "qsval": "BEETS"
+    },
+    "cabbage": {
+        "key": "cabbage",
+        "name": "Cabbage",
+        "sector": "crops",
+        "group": "vegetables",
+        "qsval": "CABBAGE"
+    },
+    "celery": {
+        "key": "celery",
+        "name": "Celery",
+        "sector": "crops",
+        "group": "vegetables",
+        "qsval": "CELERY"
+    },
+    "escarole_endive": {
+        "key": "escarole_endive",
+        "name": "Escarole & Endive",
+        "sector": "crops",
+        "group": "vegetables",
+        "qsval": "ESCAROLE & ENDIVE"
+    },
+    "greens": {
+        "key": "greens",
+        "name": "Greens",
+        "sector": "crops",
+        "group": "vegetables",
+        "qsval": "GREENS"
+    },
+    "peas": {
+        "key": "peas",
+        "name": "Peas",
+        "sector": "crops",
+        "group": "field_crops",
+        "qsval": "PEAS"
+    },
+    "pumpkins": {
+        "key": "pumpkins",
+        "name": "Pumpkins",
+        "sector": "crops",
+        "group": "vegetables",
+        "qsval": "PUMPKINS"
+    },
+    "watercress": {
+        "key": "watercress",
+        "name": "Watercress",
+        "sector": "crops",
+        "group": "vegetables",
+        "qsval": "WATERCRESS"
+    },
+    "artichokes": {
+        "key": "artichokes",
+        "name": "Artichokes",
+        "sector": "crops",
+        "group": "vegetables",
+        "qsval": "ARTICHOKES"
+    },
+    "carrots": {
+        "key": "carrots",
+        "name": "Carrots",
+        "sector": "crops",
+        "group": "vegetables",
+        "qsval": "CARROTS"
+    },
+    "garlic": {
+        "key": "garlic",
+        "name": "Garlic",
+        "sector": "crops",
+        "group": "vegetables",
+        "qsval": "GARLIC"
+    },
+    "ginger_root": {
+        "key": "ginger_root",
+        "name": "Ginger Root",
+        "sector": "crops",
+        "group": "vegetables",
+        "qsval": "GINGER ROOT"
+    },
+    "herbs": {
+        "key": "herbs",
+        "name": "Herbs",
+        "sector": "crops",
+        "group": "field_crops",
+        "qsval": "HERBS"
+    },
+    "horseradish": {
+        "key": "horseradish",
+        "name": "Horseradish",
+        "sector": "crops",
+        "group": "vegetables",
+        "qsval": "HORSERADISH"
+    },
+    "onions": {
+        "key": "onions",
+        "name": "Onions",
+        "sector": "crops",
+        "group": "vegetables",
+        "qsval": "ONIONS"
+    },
+    "peppers": {
+        "key": "peppers",
+        "name": "Peppers",
+        "sector": "crops",
+        "group": "vegetables",
+        "qsval": "PEPPERS"
+    },
+    "sweet_potatoes": {
+        "key": "sweet_potatoes",
+        "name": "Sweet Potatoes",
+        "sector": "crops",
+        "group": "vegetables",
+        "qsval": "SWEET POTATOES"
+    },
+    "cotton": {
+        "key": "cotton",
+        "name": "Cotton",
+        "sector": "crops",
+        "group": "field_crops",
+        "qsval": "COTTON"
+    },
+    "hay": {
+        "key": "hay",
+        "name": "Hay",
+        "sector": "crops",
+        "group": "field_crops",
+        "qsval": "HAY"
+    },
+    "maple_syrup": {
+        "key": "maple_syrup",
+        "name": "Maple Syrup",
+        "sector": "crops",
+        "group": "field_crops",
+        "qsval": "MAPLE SYRUP"
+    },
+    "miscanthus": {
+        "key": "miscanthus",
+        "name": "Miscanthus",
+        "sector": "crops",
+        "group": "field_crops",
+        "qsval": "MISCANTHUS"
+    },
+    "rice": {
+        "key": "rice",
+        "name": "Rice",
+        "sector": "crops",
+        "group": "field_crops",
+        "qsval": "RICE"
+    },
+    "sunflower": {
+        "key": "sunflower",
+        "name": "Sunflower",
+        "sector": "crops",
+        "group": "field_crops",
+        "qsval": "SUNFLOWER"
+    },
+    "emmer_spelt": {
+        "key": "emmer_spelt",
+        "name": "Emmer & Spelt",
+        "sector": "crops",
+        "group": "field_crops",
+        "qsval": "EMMER & SPELT"
+    },
+    "grain": {
+        "key": "grain",
+        "name": "Grain",
+        "sector": "crops",
+        "group": "field_crops",
+        "qsval": "GRAIN"
+    },
+    "legumes": {
+        "key": "legumes",
+        "name": "Legumes",
+        "sector": "crops",
+        "group": "field_crops",
+        "qsval": "LEGUMES"
+    },
+    "millet": {
+        "key": "millet",
+        "name": "Millet",
+        "sector": "crops",
+        "group": "field_crops",
+        "qsval": "MILLET"
+    },
+    "mustard": {
+        "key": "mustard",
+        "name": "Mustard",
+        "sector": "crops",
+        "group": "field_crops",
+        "qsval": "MUSTARD"
+    },
+    "wild_rice": {
+        "key": "wild_rice",
+        "name": "Wild Rice",
+        "sector": "crops",
+        "group": "field_crops",
+        "qsval": "WILD RICE"
+    },
+    "camelina": {
+        "key": "camelina",
+        "name": "Camelina",
+        "sector": "crops",
+        "group": "field_crops",
+        "qsval": "CAMELINA"
+    },
+    "grasses": {
+        "key": "grasses",
+        "name": "Grasses",
+        "sector": "crops",
+        "group": "field_crops",
+        "qsval": "GRASSES"
+    },
+    "jojoba": {
+        "key": "jojoba",
+        "name": "Jojoba",
+        "sector": "crops",
+        "group": "field_crops",
+        "qsval": "JOJOBA"
+    },
+    "oats": {
+        "key": "oats",
+        "name": "Oats",
+        "sector": "crops",
+        "group": "field_crops",
+        "qsval": "OATS"
+    },
+    "popcorn": {
+        "key": "popcorn",
+        "name": "Popcorn",
+        "sector": "crops",
+        "group": "field_crops",
+        "qsval": "POPCORN"
+    },
+    "sesame": {
+        "key": "sesame",
+        "name": "Sesame",
+        "sector": "crops",
+        "group": "field_crops",
+        "qsval": "SESAME"
+    },
+    "sugarbeets": {
+        "key": "sugarbeets",
+        "name": "Sugarbeets",
+        "sector": "crops",
+        "group": "field_crops",
+        "qsval": "SUGARBEETS"
+    },
+    "sugarcane": {
+        "key": "sugarcane",
+        "name": "Sugarcane",
+        "sector": "crops",
+        "group": "field_crops",
+        "qsval": "SUGARCANE"
+    },
+    "switchgrass": {
+        "key": "switchgrass",
+        "name": "Switchgrass",
+        "sector": "crops",
+        "group": "field_crops",
+        "qsval": "SWITCHGRASS"
+    },
+    "taro": {
+        "key": "taro",
+        "name": "Taro",
+        "sector": "crops",
+        "group": "field_crops",
+        "qsval": "TARO"
+    },
+    "wheat": {
+        "key": "wheat",
+        "name": "Wheat",
+        "sector": "crops",
+        "group": "field_crops",
+        "qsval": "WHEAT"
+    },
+    "dill": {
+        "key": "dill",
+        "name": "Dill",
+        "sector": "crops",
+        "group": "field_crops",
+        "qsval": "DILL"
+    },
+    "flaxseed": {
+        "key": "flaxseed",
+        "name": "Flaxseed",
+        "sector": "crops",
+        "group": "field_crops",
+        "qsval": "FLAXSEED"
+    },
+    "haylage": {
+        "key": "haylage",
+        "name": "Haylage",
+        "sector": "crops",
+        "group": "field_crops",
+        "qsval": "HAYLAGE"
+    },
+    "lentils": {
+        "key": "lentils",
+        "name": "Lentils",
+        "sector": "crops",
+        "group": "field_crops",
+        "qsval": "LENTILS"
+    },
+    "mint": {
+        "key": "mint",
+        "name": "Mint",
+        "sector": "crops",
+        "group": "field_crops",
+        "qsval": "MINT"
+    },
+    "sorghum": {
+        "key": "sorghum",
+        "name": "Sorghum",
+        "sector": "crops",
+        "group": "field_crops",
+        "qsval": "SORGHUM"
+    },
+    "soybeans": {
+        "key": "soybeans",
+        "name": "Soybeans",
+        "sector": "crops",
+        "group": "field_crops",
+        "qsval": "SOYBEANS"
+    },
+    "barley": {
+        "key": "barley",
+        "name": "Barley",
+        "sector": "crops",
+        "group": "field_crops",
+        "qsval": "BARLEY"
+    },
+    "buckwheat": {
+        "key": "buckwheat",
+        "name": "Buckwheat",
+        "sector": "crops",
+        "group": "field_crops",
+        "qsval": "BUCKWHEAT"
+    },
+    "guar": {
+        "key": "guar",
+        "name": "Guar",
+        "sector": "crops",
+        "group": "field_crops",
+        "qsval": "GUAR"
+    },
+    "hay_haylage": {
+        "key": "hay_haylage",
+        "name": "Hay & Haylage",
+        "sector": "crops",
+        "group": "field_crops",
+        "qsval": "HAY & HAYLAGE"
+    },
+    "rapeseed": {
+        "key": "rapeseed",
+        "name": "Rapeseed",
+        "sector": "crops",
+        "group": "field_crops",
+        "qsval": "RAPESEED"
+    },
+    "rye": {
+        "key": "rye",
+        "name": "Rye",
+        "sector": "crops",
+        "group": "field_crops",
+        "qsval": "RYE"
+    },
+    "safflower": {
+        "key": "safflower",
+        "name": "Safflower",
+        "sector": "crops",
+        "group": "field_crops",
+        "qsval": "SAFFLOWER"
+    },
+    "tobacco": {
+        "key": "tobacco",
+        "name": "Tobacco",
+        "sector": "crops",
+        "group": "field_crops",
+        "qsval": "TOBACCO"
+    },
+    "canola": {
+        "key": "canola",
+        "name": "Canola",
+        "sector": "crops",
+        "group": "field_crops",
+        "qsval": "CANOLA"
+    },
+    "corn": {
+        "key": "corn",
+        "name": "Corn",
+        "sector": "crops",
+        "group": "field_crops",
+        "qsval": "CORN"
+    },
+    "hops": {
+        "key": "hops",
+        "name": "Hops",
+        "sector": "crops",
+        "group": "field_crops",
+        "qsval": "HOPS"
+    },
+    "peanuts": {
+        "key": "peanuts",
+        "name": "Peanuts",
+        "sector": "crops",
+        "group": "field_crops",
+        "qsval": "PEANUTS"
+    },
+    "triticale": {
+        "key": "triticale",
+        "name": "Triticale",
+        "sector": "crops",
+        "group": "field_crops",
+        "qsval": "TRITICALE"
+    },
+    "apricots": {
+        "key": "apricots",
+        "name": "Apricots",
+        "sector": "crops",
+        "group": "fruit_tree_nuts",
+        "qsval": "APRICOTS"
+    },
+    "kiwifruit": {
+        "key": "kiwifruit",
+        "name": "Kiwifruit",
+        "sector": "crops",
+        "group": "fruit_tree_nuts",
+        "qsval": "KIWIFRUIT"
+    },
+    "kumquats": {
+        "key": "kumquats",
+        "name": "Kumquats",
+        "sector": "crops",
+        "group": "fruit_tree_nuts",
+        "qsval": "KUMQUATS"
+    },
+    "limes": {
+        "key": "limes",
+        "name": "Limes",
+        "sector": "crops",
+        "group": "fruit_tree_nuts",
+        "qsval": "LIMES"
+    },
+    "papayas": {
+        "key": "papayas",
+        "name": "Papayas",
+        "sector": "crops",
+        "group": "fruit_tree_nuts",
+        "qsval": "PAPAYAS"
+    },
+    "passion_fruit": {
+        "key": "passion_fruit",
+        "name": "Passion Fruit",
+        "sector": "crops",
+        "group": "fruit_tree_nuts",
+        "qsval": "PASSION FRUIT"
+    },
+    "cranberries": {
+        "key": "cranberries",
+        "name": "Cranberries",
+        "sector": "crops",
+        "group": "fruit_tree_nuts",
+        "qsval": "CRANBERRIES"
+    },
+    "currants": {
+        "key": "currants",
+        "name": "Currants",
+        "sector": "crops",
+        "group": "fruit_tree_nuts",
+        "qsval": "CURRANTS"
+    },
+    "dates": {
+        "key": "dates",
+        "name": "Dates",
+        "sector": "crops",
+        "group": "fruit_tree_nuts",
+        "qsval": "DATES"
+    },
+    "figs": {
+        "key": "figs",
+        "name": "Figs",
+        "sector": "crops",
+        "group": "fruit_tree_nuts",
+        "qsval": "FIGS"
+    },
+    "lemons": {
+        "key": "lemons",
+        "name": "Lemons",
+        "sector": "crops",
+        "group": "fruit_tree_nuts",
+        "qsval": "LEMONS"
+    },
+    "nectarines": {
+        "key": "nectarines",
+        "name": "Nectarines",
+        "sector": "crops",
+        "group": "fruit_tree_nuts",
+        "qsval": "NECTARINES"
+    },
+    "oranges": {
+        "key": "oranges",
+        "name": "Oranges",
+        "sector": "crops",
+        "group": "fruit_tree_nuts",
+        "qsval": "ORANGES"
+    },
+    "orchards": {
+        "key": "orchards",
+        "name": "Orchards",
+        "sector": "crops",
+        "group": "fruit_tree_nuts",
+        "qsval": "ORCHARDS"
+    },
+    "pears": {
+        "key": "pears",
+        "name": "Pears",
+        "sector": "crops",
+        "group": "fruit_tree_nuts",
+        "qsval": "PEARS"
+    },
+    "plums": {
+        "key": "plums",
+        "name": "Plums",
+        "sector": "crops",
+        "group": "fruit_tree_nuts",
+        "qsval": "PLUMS"
+    },
+    "pomegranates": {
+        "key": "pomegranates",
+        "name": "Pomegranates",
+        "sector": "crops",
+        "group": "fruit_tree_nuts",
+        "qsval": "POMEGRANATES"
+    },
+    "tangerines": {
+        "key": "tangerines",
+        "name": "Tangerines",
+        "sector": "crops",
+        "group": "fruit_tree_nuts",
+        "qsval": "TANGERINES"
+    },
+    "almonds": {
+        "key": "almonds",
+        "name": "Almonds",
+        "sector": "crops",
+        "group": "fruit_tree_nuts",
+        "qsval": "ALMONDS"
+    },
+    "blackberries": {
+        "key": "blackberries",
+        "name": "Blackberries",
+        "sector": "crops",
+        "group": "fruit_tree_nuts",
+        "qsval": "BLACKBERRIES"
+    },
+    "grapes": {
+        "key": "grapes",
+        "name": "Grapes",
+        "sector": "crops",
+        "group": "fruit_tree_nuts",
+        "qsval": "GRAPES"
+    },
+    "peaches": {
+        "key": "peaches",
+        "name": "Peaches",
+        "sector": "crops",
+        "group": "fruit_tree_nuts",
+        "qsval": "PEACHES"
+    },
+    "grapefruit": {
+        "key": "grapefruit",
+        "name": "Grapefruit",
+        "sector": "crops",
+        "group": "fruit_tree_nuts",
+        "qsval": "GRAPEFRUIT"
+    },
+    "macadamias": {
+        "key": "macadamias",
+        "name": "Macadamias",
+        "sector": "crops",
+        "group": "fruit_tree_nuts",
+        "qsval": "MACADAMIAS"
+    },
+    "olives": {
+        "key": "olives",
+        "name": "Olives",
+        "sector": "crops",
+        "group": "fruit_tree_nuts",
+        "qsval": "OLIVES"
+    },
+    "pecans": {
+        "key": "pecans",
+        "name": "Pecans",
+        "sector": "crops",
+        "group": "fruit_tree_nuts",
+        "qsval": "PECANS"
+    },
+    "plum_apricot_hybrids": {
+        "key": "plum_apricot_hybrids",
+        "name": "Plum-apricot Hybrids",
+        "sector": "crops",
+        "group": "fruit_tree_nuts",
+        "qsval": "PLUM-APRICOT HYBRIDS"
+    },
+    "temples": {
+        "key": "temples",
+        "name": "Temples",
+        "sector": "crops",
+        "group": "fruit_tree_nuts",
+        "qsval": "TEMPLES"
+    },
+    "apples": {
+        "key": "apples",
+        "name": "Apples",
+        "sector": "crops",
+        "group": "fruit_tree_nuts",
+        "qsval": "APPLES"
+    },
+    "avocados": {
+        "key": "avocados",
+        "name": "Avocados",
+        "sector": "crops",
+        "group": "fruit_tree_nuts",
+        "qsval": "AVOCADOS"
+    },
+    "blueberries": {
+        "key": "blueberries",
+        "name": "Blueberries",
+        "sector": "crops",
+        "group": "fruit_tree_nuts",
+        "qsval": "BLUEBERRIES"
+    },
+    "boysenberries": {
+        "key": "boysenberries",
+        "name": "Boysenberries",
+        "sector": "crops",
+        "group": "fruit_tree_nuts",
+        "qsval": "BOYSENBERRIES"
+    },
+    "coffee": {
+        "key": "coffee",
+        "name": "Coffee",
+        "sector": "crops",
+        "group": "fruit_tree_nuts",
+        "qsval": "COFFEE"
+    },
+    "hazelnuts": {
+        "key": "hazelnuts",
+        "name": "Hazelnuts",
+        "sector": "crops",
+        "group": "fruit_tree_nuts",
+        "qsval": "HAZELNUTS"
+    },
+    "mangoes": {
+        "key": "mangoes",
+        "name": "Mangoes",
+        "sector": "crops",
+        "group": "fruit_tree_nuts",
+        "qsval": "MANGOES"
+    },
+    "tangelos": {
+        "key": "tangelos",
+        "name": "Tangelos",
+        "sector": "crops",
+        "group": "fruit_tree_nuts",
+        "qsval": "TANGELOS"
+    },
+    "bananas": {
+        "key": "bananas",
+        "name": "Bananas",
+        "sector": "crops",
+        "group": "fruit_tree_nuts",
+        "qsval": "BANANAS"
+    },
+    "cherries": {
+        "key": "cherries",
+        "name": "Cherries",
+        "sector": "crops",
+        "group": "fruit_tree_nuts",
+        "qsval": "CHERRIES"
+    },
+    "chestnuts": {
+        "key": "chestnuts",
+        "name": "Chestnuts",
+        "sector": "crops",
+        "group": "fruit_tree_nuts",
+        "qsval": "CHESTNUTS"
+    },
+    "guavas": {
+        "key": "guavas",
+        "name": "Guavas",
+        "sector": "crops",
+        "group": "fruit_tree_nuts",
+        "qsval": "GUAVAS"
+    },
+    "loganberries": {
+        "key": "loganberries",
+        "name": "Loganberries",
+        "sector": "crops",
+        "group": "fruit_tree_nuts",
+        "qsval": "LOGANBERRIES"
+    },
+    "persimmons": {
+        "key": "persimmons",
+        "name": "Persimmons",
+        "sector": "crops",
+        "group": "fruit_tree_nuts",
+        "qsval": "PERSIMMONS"
+    },
+    "pineapples": {
+        "key": "pineapples",
+        "name": "Pineapples",
+        "sector": "crops",
+        "group": "fruit_tree_nuts",
+        "qsval": "PINEAPPLES"
+    },
+    "pistachios": {
+        "key": "pistachios",
+        "name": "Pistachios",
+        "sector": "crops",
+        "group": "fruit_tree_nuts",
+        "qsval": "PISTACHIOS"
+    },
+    "plums_prunes": {
+        "key": "plums_prunes",
+        "name": "Plums & Prunes",
+        "sector": "crops",
+        "group": "fruit_tree_nuts",
+        "qsval": "PLUMS & PRUNES"
+    },
+    "prunes": {
+        "key": "prunes",
+        "name": "Prunes",
+        "sector": "crops",
+        "group": "fruit_tree_nuts",
+        "qsval": "PRUNES"
+    },
+    "raspberries": {
+        "key": "raspberries",
+        "name": "Raspberries",
+        "sector": "crops",
+        "group": "fruit_tree_nuts",
+        "qsval": "RASPBERRIES"
+    },
+    "strawberries": {
+        "key": "strawberries",
+        "name": "Strawberries",
+        "sector": "crops",
+        "group": "fruit_tree_nuts",
+        "qsval": "STRAWBERRIES"
+    },
+    "walnuts": {
+        "key": "walnuts",
+        "name": "Walnuts",
+        "sector": "crops",
+        "group": "fruit_tree_nuts",
+        "qsval": "WALNUTS"
+    },
+    "food_fish": {
+        "key": "food_fish",
+        "name": "Food Fish",
+        "sector": "animals_products",
+        "group": "aquaculture",
+        "qsval": "FOOD FISH"
+    },
+    "baitfish": {
+        "key": "baitfish",
+        "name": "Baitfish",
+        "sector": "animals_products",
+        "group": "aquaculture",
+        "qsval": "BAITFISH"
+    },
+    "crustaceans": {
+        "key": "crustaceans",
+        "name": "Crustaceans",
+        "sector": "animals_products",
+        "group": "aquaculture",
+        "qsval": "CRUSTACEANS"
+    },
+    "ornamental_fish": {
+        "key": "ornamental_fish",
+        "name": "Ornamental Fish",
+        "sector": "animals_products",
+        "group": "aquaculture",
+        "qsval": "ORNAMENTAL FISH"
+    },
+    "sport_fish": {
+        "key": "sport_fish",
+        "name": "Sport Fish",
+        "sector": "animals_products",
+        "group": "aquaculture",
+        "qsval": "SPORT FISH"
+    },
+    "mollusks": {
+        "key": "mollusks",
+        "name": "Mollusks",
+        "sector": "animals_products",
+        "group": "aquaculture",
+        "qsval": "MOLLUSKS"
+    },
+    "mohair": {
+        "key": "mohair",
+        "name": "Mohair",
+        "sector": "animals_products",
+        "group": "livestock",
+        "qsval": "MOHAIR"
+    },
+    "sheep": {
+        "key": "sheep",
+        "name": "Sheep",
+        "sector": "animals_products",
+        "group": "livestock",
+        "qsval": "SHEEP"
+    },
+    "cattle": {
+        "key": "cattle",
+        "name": "Cattle",
+        "sector": "animals_products",
+        "group": "livestock",
+        "qsval": "CATTLE"
+    },
+    "hogs": {
+        "key": "hogs",
+        "name": "Hogs",
+        "sector": "animals_products",
+        "group": "livestock",
+        "qsval": "HOGS"
+    },
+    "wool": {
+        "key": "wool",
+        "name": "Wool",
+        "sector": "animals_products",
+        "group": "livestock",
+        "qsval": "WOOL"
+    },
+    "goats": {
+        "key": "goats",
+        "name": "Goats",
+        "sector": "animals_products",
+        "group": "livestock",
+        "qsval": "GOATS"
+    },
+    "eggs": {
+        "key": "eggs",
+        "name": "Eggs",
+        "sector": "animals_products",
+        "group": "poultry",
+        "qsval": "EGGS"
+    },
+    "partridges": {
+        "key": "partridges",
+        "name": "Partridges",
+        "sector": "animals_products",
+        "group": "poultry",
+        "qsval": "PARTRIDGES"
+    },
+    "quail": {
+        "key": "quail",
+        "name": "Quail",
+        "sector": "animals_products",
+        "group": "poultry",
+        "qsval": "QUAIL"
+    },
+    "chukars": {
+        "key": "chukars",
+        "name": "Chukars",
+        "sector": "animals_products",
+        "group": "poultry",
+        "qsval": "CHUKARS"
+    },
+    "ducks": {
+        "key": "ducks",
+        "name": "Ducks",
+        "sector": "animals_products",
+        "group": "poultry",
+        "qsval": "DUCKS"
+    },
+    "guineas": {
+        "key": "guineas",
+        "name": "Guineas",
+        "sector": "animals_products",
+        "group": "poultry",
+        "qsval": "GUINEAS"
+    },
+    "peafowl": {
+        "key": "peafowl",
+        "name": "Peafowl",
+        "sector": "animals_products",
+        "group": "poultry",
+        "qsval": "PEAFOWL"
+    },
+    "turkeys": {
+        "key": "turkeys",
+        "name": "Turkeys",
+        "sector": "animals_products",
+        "group": "poultry",
+        "qsval": "TURKEYS"
+    },
+    "chickens": {
+        "key": "chickens",
+        "name": "Chickens",
+        "sector": "animals_products",
+        "group": "poultry",
+        "qsval": "CHICKENS"
+    },
+    "geese": {
+        "key": "geese",
+        "name": "Geese",
+        "sector": "animals_products",
+        "group": "poultry",
+        "qsval": "GEESE"
+    },
+    "ostriches": {
+        "key": "ostriches",
+        "name": "Ostriches",
+        "sector": "animals_products",
+        "group": "poultry",
+        "qsval": "OSTRICHES"
+    },
+    "pheasants": {
+        "key": "pheasants",
+        "name": "Pheasants",
+        "sector": "animals_products",
+        "group": "poultry",
+        "qsval": "PHEASANTS"
+    },
+    "pigeons_squab": {
+        "key": "pigeons_squab",
+        "name": "Pigeons & Squab",
+        "sector": "animals_products",
+        "group": "poultry",
+        "qsval": "PIGEONS & SQUAB"
+    },
+    "rheas": {
+        "key": "rheas",
+        "name": "Rheas",
+        "sector": "animals_products",
+        "group": "poultry",
+        "qsval": "RHEAS"
+    },
+    "emus": {
+        "key": "emus",
+        "name": "Emus",
+        "sector": "animals_products",
+        "group": "poultry",
+        "qsval": "EMUS"
+    },
+    "deer": {
+        "key": "deer",
+        "name": "Deer",
+        "sector": "animals_products",
+        "group": "specialty",
+        "qsval": "DEER"
+    },
+    "honey": {
+        "key": "honey",
+        "name": "Honey",
+        "sector": "animals_products",
+        "group": "specialty",
+        "qsval": "HONEY"
+    },
+    "llamas": {
+        "key": "llamas",
+        "name": "Llamas",
+        "sector": "animals_products",
+        "group": "specialty",
+        "qsval": "LLAMAS"
+    },
+    "bison": {
+        "key": "bison",
+        "name": "Bison",
+        "sector": "animals_products",
+        "group": "specialty",
+        "qsval": "BISON"
+    },
+    "equine": {
+        "key": "equine",
+        "name": "Equine",
+        "sector": "animals_products",
+        "group": "specialty",
+        "qsval": "EQUINE"
+    },
+    "alpacas": {
+        "key": "alpacas",
+        "name": "Alpacas",
+        "sector": "animals_products",
+        "group": "specialty",
+        "qsval": "ALPACAS"
+    },
+    "elk": {
+        "key": "elk",
+        "name": "Elk",
+        "sector": "animals_products",
+        "group": "specialty",
+        "qsval": "ELK"
+    },
+    "rabbits": {
+        "key": "rabbits",
+        "name": "Rabbits",
+        "sector": "animals_products",
+        "group": "specialty",
+        "qsval": "RABBITS"
+    }
+}

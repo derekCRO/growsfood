@@ -1,0 +1,6 @@
+{"peas":{ "commodity_desc": ["PEAS"], "source_desc": ["CENSUS"], "year": ["2012"], "class_desc":["AUSTRIAN WINTER","CHINESE (SUGAR & SNOW)","DRY EDIBLE","DRY, SOUTHERN (COWPEAS)","GREEN, (EXCL SOUTHERN)","GREEN, SOUTHERN (COWPEAS)"],
+"domain_desc":["TOTAL"],
+"prodn_practice_desc":["IRRIGATED","ALL PRODUCTION PRACTICES"],
+"statisticcat_desc":["AREA HARVESTED","PRODUCTION"],
+"unit_desc":["ACRES","BU","CWT","OPERATIONS"],
+"util_practice_desc":["ALL UTILIZATION PRACTICES","FRESH MARKET","PROCESSING"],"agg_level_desc": ["NATIONAL", "STATE", "COUNTY"]}}

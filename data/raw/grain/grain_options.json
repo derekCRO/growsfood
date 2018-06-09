@@ -1,0 +1,6 @@
+{"grain":{ "commodity_desc": ["GRAIN"], "source_desc": ["CENSUS"], "year": ["2012"], "class_desc":["ALL CLASSES","OTHER"],
+"domain_desc":["TOTAL"],
+"prodn_practice_desc":["ALL PRODUCTION PRACTICES","PRODUCTION CONTRACT"],
+"statisticcat_desc":["PRODUCTION","SALES"],
+"unit_desc":["$","OPERATIONS"],
+"util_practice_desc":["ALL UTILIZATION PRACTICES"],"agg_level_desc": ["NATIONAL", "STATE", "COUNTY"]}}

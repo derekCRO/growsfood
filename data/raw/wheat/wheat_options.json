@@ -1,0 +1,6 @@
+{"wheat":{ "commodity_desc": ["WHEAT"], "source_desc": ["CENSUS"], "year": ["2012"], "class_desc":["ALL CLASSES","SPRING, (EXCL DURUM)","SPRING, DURUM","WINTER"],
+"domain_desc":["AREA HARVESTED","TOTAL"],
+"prodn_practice_desc":["IRRIGATED","ALL PRODUCTION PRACTICES"],
+"statisticcat_desc":["AREA HARVESTED","PRODUCTION","SALES"],
+"unit_desc":["$","ACRES","BU","OPERATIONS"],
+"util_practice_desc":["ALL UTILIZATION PRACTICES"],"agg_level_desc": ["NATIONAL", "STATE", "COUNTY"]}}

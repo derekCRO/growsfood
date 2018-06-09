@@ -1,0 +1,6 @@
+{"short_term_woody_crops":{ "commodity_desc": ["SHORT TERM WOODY CROPS"], "source_desc": ["CENSUS"], "year": ["2012"], "class_desc":["ALL CLASSES"],
+"domain_desc":["TOTAL"],
+"prodn_practice_desc":["IRRIGATED","ALL PRODUCTION PRACTICES"],
+"statisticcat_desc":["AREA HARVESTED","AREA IN PRODUCTION","SALES"],
+"unit_desc":["$","ACRES","OPERATIONS"],
+"util_practice_desc":["ALL UTILIZATION PRACTICES"],"agg_level_desc": ["NATIONAL", "STATE", "COUNTY"]}}

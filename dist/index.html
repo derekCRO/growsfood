@@ -1,0 +1,91 @@
+<!doctype html>
+<html class="no-js" lang="">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
+
+    <title>Who Grows Food For Us? - USDA Innovation Challenge 2015</title>
+
+    <meta name="description" content="">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <link rel="apple-touch-icon" href="apple-touch-icon.png">
+    <!-- Place favicon.ico in the root directory -->
+
+    <!-- stylesheets -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/3.0.3/normalize.min.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/semantic-ui/2.1.4/semantic.min.css">
+
+    <style type="text/css">
+      #loading {
+          display: block;
+          position: absolute;
+          top: 0;
+          left: 0;
+          z-index: 100;
+          width: 100vw;
+          height: 100vh;
+          background-color: rgba(192, 192, 192, 0.5);
+          background-image: url("http://i.stack.imgur.com/MnyxU.gif");
+          background-repeat: no-repeat;
+          background-position: center;
+      }
+    </style>
+  </head>
+
+  <body>
+
+    <div class="ui fixed inverted menu">
+      <div class="ui container">
+        <div href="#" class="header item">
+          <i class="food icon"></i>
+          Who Grows Food For Us?
+        </div>
+      </div>
+    </div><!-- /menu -->
+
+    <div class="ui main container">
+
+      <div id="loading">
+      </div>
+
+      <div id="app"></div>
+      <script src="bundle.js"></script>
+
+    </div><!-- /container -->
+
+    <div class="ui inverted vertical footer segment">
+      <div class="ui center aligned container">
+        <p>
+          WhoGrowsFoodFor.Us is a project by <a href="https://github.com/conroywhitney">@conroywhitney</a> that explores which communities grow food here in the United States.
+        </p>
+
+        <p>
+          This project was created for the <a href="http://usdaapps.devpost.com/">USDA Innovation Challenge</a> and uses the <a href="http://quickstats.nass.usda.gov/">National Agricultural Statistics Service (NASS) QuickStats API</a>.
+        </p>
+
+        <p>
+          This project is open source under the <a href="http://opensource.org/licenses/MIT">MIT license</a> and is <a href="https://github.com/conroywhitney/whogrowsfoodfor.us">available on github</a>. Copyright &copy; 2015 Conroy Whitney.
+        </p>
+      </div>
+    </div><!-- /footer -->
+
+    <script>
+      // hide loading once everything's done downloading
+      window.onload = function() {
+        document.getElementById("loading").style.display = "none";
+      }
+    </script>
+
+    <script>
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+      (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+      m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+      })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+      ga('create', 'UA-69340942-1', 'auto');
+      ga('send', 'pageview');
+    </script>
+`
+  </body>
+</html>

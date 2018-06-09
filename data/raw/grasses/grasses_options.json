@@ -1,0 +1,6 @@
+{"grasses":{ "commodity_desc": ["GRASSES"], "source_desc": ["CENSUS"], "year": ["2012"], "class_desc":["BAHIA GRASS","BENTGRASS","BERMUDA GRASS","BLUEGRASS, KENTUCKY","BROMEGRASS","FESCUE","ORCHARDGRASS","RYEGRASS","SUDANGRASS","TIMOTHY","WHEATGRASS"],
+"domain_desc":["TOTAL"],
+"prodn_practice_desc":["IRRIGATED","ALL PRODUCTION PRACTICES"],
+"statisticcat_desc":["AREA HARVESTED","PRODUCTION"],
+"unit_desc":["ACRES","LB","OPERATIONS"],
+"util_practice_desc":["SEED"],"agg_level_desc": ["NATIONAL", "STATE", "COUNTY"]}}

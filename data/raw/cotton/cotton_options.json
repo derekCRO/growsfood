@@ -1,0 +1,6 @@
+{"cotton":{ "commodity_desc": ["COTTON"], "source_desc": ["CENSUS"], "year": ["2012"], "class_desc":["ALL CLASSES","PIMA","UPLAND"],
+"domain_desc":["AREA HARVESTED","TOTAL"],
+"prodn_practice_desc":["IRRIGATED","ALL PRODUCTION PRACTICES"],
+"statisticcat_desc":["AREA HARVESTED","PRODUCTION","SALES"],
+"unit_desc":["$","ACRES","BALES","OPERATIONS"],
+"util_practice_desc":["ALL UTILIZATION PRACTICES","LINT & SEED"],"agg_level_desc": ["NATIONAL", "STATE", "COUNTY"]}}

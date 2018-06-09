@@ -1,0 +1,6 @@
+{"legumes":{ "commodity_desc": ["LEGUMES"], "source_desc": ["CENSUS"], "year": ["2012"], "class_desc":["ALFALFA","BIRDSFOOT TREFOIL","CLOVER, CRIMSON","CLOVER, LADINO","CLOVER, RED","CLOVER, WHITE","LESPEDEZA","VETCH"],
+"domain_desc":["TOTAL"],
+"prodn_practice_desc":["IRRIGATED","ALL PRODUCTION PRACTICES"],
+"statisticcat_desc":["AREA HARVESTED","PRODUCTION"],
+"unit_desc":["ACRES","LB","OPERATIONS"],
+"util_practice_desc":["SEED"],"agg_level_desc": ["NATIONAL", "STATE", "COUNTY"]}}

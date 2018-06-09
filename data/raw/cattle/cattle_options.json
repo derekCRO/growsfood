@@ -1,0 +1,6 @@
+{"cattle":{ "commodity_desc": ["CATTLE"], "source_desc": ["CENSUS"], "year": ["2012"], "class_desc":["ALL CLASSES","CALVES","CALVES, VEAL","GE 500 LBS","HEIFERS, GE 500 LBS, MILK REPLACEMENT","INCL CALVES"],
+"domain_desc":["SALES OF CALVES","SALES OF CATTLE GE 500 LBS","SALES OF CATTLE ON FEED","SALES OF CATTLE, INCL CALVES","TOTAL"],
+"prodn_practice_desc":["PRODUCTION CONTRACT, ON FEED","RAISED OR SOLD","ON FEED","ALL PRODUCTION PRACTICES","PRODUCTION CONTRACT"],
+"statisticcat_desc":["OPERATIONS","PRODUCTION","SALES","SALES FOR SLAUGHTER"],
+"unit_desc":["$","HEAD","OPERATIONS"],
+"util_practice_desc":["ALL UTILIZATION PRACTICES"],"agg_level_desc": ["NATIONAL", "STATE", "COUNTY"]}}

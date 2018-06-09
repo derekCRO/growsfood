@@ -1,0 +1,6 @@
+{"millet":{ "commodity_desc": ["MILLET"], "source_desc": ["CENSUS"], "year": ["2012"], "class_desc":["PROSO"],
+"domain_desc":["TOTAL"],
+"prodn_practice_desc":["IRRIGATED","ALL PRODUCTION PRACTICES"],
+"statisticcat_desc":["AREA HARVESTED","PRODUCTION"],
+"unit_desc":["ACRES","BU","OPERATIONS"],
+"util_practice_desc":["ALL UTILIZATION PRACTICES"],"agg_level_desc": ["NATIONAL", "STATE", "COUNTY"]}}

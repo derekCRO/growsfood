@@ -1,0 +1,6 @@
+{"eggs":{ "commodity_desc": ["EGGS"], "source_desc": ["CENSUS"], "year": ["2012"], "class_desc":["ALL CLASSES"],
+"domain_desc":["TOTAL"],
+"prodn_practice_desc":["PRODUCTION CONTRACT"],
+"statisticcat_desc":["PRODUCTION"],
+"unit_desc":["DOZEN","OPERATIONS"],
+"util_practice_desc":["ALL UTILIZATION PRACTICES"],"agg_level_desc": ["NATIONAL", "STATE", "COUNTY"]}}

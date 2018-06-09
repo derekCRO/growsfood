@@ -1,0 +1,6 @@
+{"beans":{ "commodity_desc": ["BEANS"], "source_desc": ["CENSUS"], "year": ["2012"], "class_desc":["DRY EDIBLE, (EXCL LIMA)","DRY EDIBLE, LIMA","GREEN, LIMA","SNAP"],
+"domain_desc":["AREA HARVESTED","TOTAL"],
+"prodn_practice_desc":["IRRIGATED","ALL PRODUCTION PRACTICES"],
+"statisticcat_desc":["AREA HARVESTED","PRODUCTION"],
+"unit_desc":["ACRES","CWT","OPERATIONS"],
+"util_practice_desc":["ALL UTILIZATION PRACTICES","FRESH MARKET","PROCESSING"],"agg_level_desc": ["NATIONAL", "STATE", "COUNTY"]}}
